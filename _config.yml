@@ -69,6 +69,7 @@ jekyll-archives:
     tag: /tags/:name/
 
 # Build settings
+theme: minima
 plugins:
   - jekyll-archives
   - jekyll-paginate
