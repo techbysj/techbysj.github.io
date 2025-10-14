@@ -29,12 +29,12 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "Salim Jamal Abood - CV Resume & Personal Portfolio"
-email: "jsabood19@gmail.com"
+title: "Salim Jamal Salim - CV Resume & Personal Portfolio"
+email: "salimjsalim@outlook.com"
 description: "Salim Resume / CV / vCard / Portfolio and Personal Portfolio"
-author: "Admin"
+author: "Salim Jamal Salim"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://techbysj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
@@ -47,7 +47,7 @@ disqus_comments: "yes" # yes - show disqus comments, no - hide disqus comments
 disqus_shortname: "glitche-jekyll-theme" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # formsubmit.io
-formsubmit_email: "sjabood44@gmail.com" # sign up on https://formsubmit.io/ and confirm your email
+formsubmit_email: "salimjsalim@outlook.com" # sign up on https://formsubmit.io/ and confirm your email
 
 # collections
 collections:
