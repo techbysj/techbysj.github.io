@@ -2,9 +2,9 @@
 # preview details
 layout: works-single
 title: Lms
-category: School
+category: Development
 category_slug: development
-image: https://vipingomuslim.sc.ke/wp-content/uploads/2023/11/VIPINGO-MUSLIM-SECONDARY-SCHOOL-5.png
+image: https://media.istockphoto.com/id/1409722748/photo/students-raising-hands-while-teacher-asking-them-questions-in-classroom.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=NbVChOV9wIbQOhUD6BqpouZHHBbyQ2rkSjaVfIhpMv8=
 
 # full details
 full_image: https://vipingomuslim.sc.ke/wp-content/uploads/2023/11/VIPINGO-MUSLIM-SECONDARY-SCHOOL-5.png
