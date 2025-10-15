@@ -8,7 +8,7 @@ hero:
   image: "assets/img/profile.png"
   image_alt: "Salim Jamal"
   title: "Salim Jamal <br>Salim"
-  subtitle: "Cloud Engineer | MSc Software Engineering | Certified Digital Marketer"
+  subtitle: "DevOps & Cloud Engineer"
   description: "A passionate Cloud Engineer with hands-on experience in building and supporting scalable, cloud-native solutions. Skilled in AWS, Linux, Python, Docker, Kubernetes, and CI/CD pipeline automation, with a strong background in Fullstack Web development and focus on reliability and efficiency."
   info:
     - label: "Located in"
@@ -21,7 +21,7 @@ hero:
       value: "3+ Years"
 
     - label: "Status"
-      value: "Open to work"
+      value: "Open"
 
 ### About [ about ]
 about:
