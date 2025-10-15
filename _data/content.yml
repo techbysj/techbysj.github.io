@@ -157,9 +157,9 @@ resume:
           subname: "Innovus Group – Technology Consulting Company"
           text: "<p>Started as intern and grew into lead role within cloud and software development team. Delivered responsive static and dynamic websites using JavaScript, React.js, WordPress. Configured CI/CD pipelines, integrated APIs, and optimized SEO and performance.</p>"  
 
-  # button:
-  #   text: "Download CV"
-  #   link: "#"
+  button:
+    text: "Download CV"
+    link: "https://docs.google.com/document/d/1CqKvaRtfrp3U1CDaSiS5gb1q2Au8Pj4pXCTWdNXacPI/edit?tab=t.0"
 
 ### Pricing [ pricing ]
 pricing:
